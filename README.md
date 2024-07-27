@@ -1,2 +1,4 @@
 # CMSC204-GraphDataStructure-PythonProgramming
-This is the final project in our Data Structures and Algorithms class (CMSC 204) in the Diploma in Computer Science Program at the University of the Philippines Open University. This project is a use case for Graph Data Structures on Social Media as a proposed analytics methodology  for the Department of Health FB Page.
+This is the final project in our Data Structures and Algorithms class (CMSC 204) in the Diploma in Computer Science Program at the University of the Philippines Open University. This project is a use case for Graph Data Structures on Social Media as a proposed analytics methodology  for the Department of Health FB Page. This project sheds light on how the government could leverage its social media presence by understanding its current following. Specifically, in modelling its social relationship diagram of Facebook users and its linkages among social entities and their implications.
+-------------------------------------------------------
+Note: A video explanation of the code can be found on this link here: https://www.youtube.com/watch?v=CF74u4pNI-M
